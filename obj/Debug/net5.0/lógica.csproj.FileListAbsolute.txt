@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.exe
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.deps.json
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.runtimeconfig.json
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.runtimeconfig.dev.json
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.dll
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\ref\lógica.dll
+C:\Users\user\Desktop\lógica\bin\Debug\net5.0\lógica.pdb
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.csprojAssemblyReference.cache
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.AssemblyInfo.cs
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.dll
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\ref\lógica.dll
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.pdb
+C:\Users\user\Desktop\lógica\obj\Debug\net5.0\lógica.genruntimeconfig.cache
